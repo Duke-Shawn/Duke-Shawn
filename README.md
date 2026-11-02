@@ -61,7 +61,7 @@ What it does, who it helps and what you built it with.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -119,8 +119,14 @@ What it does, who it helps and what you built it with.
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Duke-Shawn&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duke-Shawn&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/Duke-Shawn/Duke-Shawn/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="95%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Duke-Shawn/Duke-Shawn/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" width="48%" />
+  <img src="https://raw.githubusercontent.com/Duke-Shawn/Duke-Shawn/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" width="48%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Duke-Shawn/Duke-Shawn/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="95%" />
 </p>
 
 ---
